@@ -9108,10 +9108,10 @@ lowercase-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-2.0.0.tgz#2603e78b7b4b0006cbca2fbcc8a3202558ac9479"
   integrity sha512-tqNXrS78oMOE73NMxK4EMLQsQowWf8jKooH9g7xPavRT706R6bkQJ6DY2Te7QukaZsulxa30wQ7bk0pm4XiHmA==
 
-lru-cache@8.0.4:
-  version "8.0.4"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-8.0.4.tgz#49fbbc46c0b4cedc36258885247f93dba341e7ec"
-  integrity sha512-E9FF6+Oc/uFLqZCuZwRKUzgFt5Raih6LfxknOSAVTjNkrCZkBf7DQCwJxZQgd9l4eHjIJDGR+E+1QKD1RhThPw==
+lru-cache@9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-9.0.1.tgz#ac061ed291f8b9adaca2b085534bb1d3b61bef83"
+  integrity sha512-C8QsKIN1UIXeOs3iWmiZ1lQY+EnKDojWd37fXy1aSbJvH4iSma1uy2OWuoB3m4SYRli5+CUjDv3Dij5DVoetmg==
 
 lru-cache@^4.0.1, lru-cache@^4.1.2:
   version "4.1.5"
