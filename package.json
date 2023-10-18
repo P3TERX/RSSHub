@@ -154,7 +154,7 @@
     "@types/crypto-js": "4.1.2",
     "@types/eslint": "8.44.4",
     "@types/eslint-config-prettier": "6.11.1",
-    "@types/etag": "1.8.1",
+    "@types/etag": "1.8.2",
     "@types/fs-extra": "11.0.2",
     "@types/git-rev-sync": "2.0.0",
     "@types/imapflow": "1.0.14",
